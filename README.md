@@ -10,3 +10,13 @@ My task was to perform an initial data and exploratory analysis of some of Insta
 Open source data from Instacart and a customer data set created for the purpose of this project.
 
 [Instacart Data Set](https://www.instacart.com/datasets/grocery-shopping-2017)
+
+### Tools
+For this project used Excel and Python. The following libraries/tools were employed within Python
+- Anaconda 3
+- Jupyter Notebook
+- Pandas
+- Numpy
+- Matplotlib
+- Scipy
+- Seaborn
